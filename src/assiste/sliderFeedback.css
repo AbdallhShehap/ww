@@ -1,0 +1,43 @@
+
+  
+  /* Individual Slide */
+  .slide {
+    text-align: start;
+
+    padding: 17rem;
+    background-color: white;
+  
+    border-radius: 5px;
+    width: 80%;
+  }
+
+
+.slide-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px; /* Adjust as needed */
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    /* position: relative;  */
+  }
+  
+/* Slide Title in Lower Right */
+.slide-title {
+display: flex;
+justify-content: end;
+padding-top: 5rem;
+  
+  font-size: 16px;
+  font-weight: bold;
+  color: #171717;
+  background-color: white; /* Add a background to make the title more readable */
+ 
+  
+  border-radius: 5px; /* Add rounded corners */
+  z-index: 999;
+}
+
+
+  

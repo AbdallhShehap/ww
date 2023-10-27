@@ -1,0 +1,18 @@
+.Hsliderhomepage{
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+  
+  .black-box {
+    background-color: rgb(38, 38, 38,0.5);
+    /* opacity: 0.6; */
+    width: 50%; /* Adjust the width as needed */
+    height: 25rem; /* Adjust the height as needed */
+    position: absolute;
+    bottom: 0; 
+     
+  }
+  

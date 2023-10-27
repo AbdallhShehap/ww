@@ -1,0 +1,7 @@
+.Container-navbar{
+    height: 592px;
+    width: 100%;
+    background-color: #911E1A;
+    display: flex;
+    flex-direction: column;
+}
